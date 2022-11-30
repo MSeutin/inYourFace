@@ -9,3 +9,5 @@ Cebastian_model/checkpoints/.data-00000-of-00001
 Cebastian_model/mask_face_model.h5
 converging_models/checkpoints/unmasked/.data-00000-of-00001
 converging_models/mask_face_model.h5
+converging_models/MODELS/
+converging_models/converge_testing
