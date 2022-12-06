@@ -13,7 +13,7 @@ mask_label = ['with mask', 'without mask']
 ####################
 ### MASK/NO MASK ###
 ####################
-mask_no_mask_model = tf.keras.models.load_model('./MODELS/chris_mask_nomask_model.h5')
+mask_no_mask_model = tf.keras.models.load_model('./MODELS/mask_nomask_model.h5')
 #mask_no_mask_model.summary()
 
 
