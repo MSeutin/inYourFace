@@ -12,3 +12,4 @@ converging_models/mask_face_model.h5
 converging_models/MODELS/
 converging_models/converge_testing
 NEW_DATASET/
+Crop/Cropped_Dataset/
