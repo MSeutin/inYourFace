@@ -1,6 +1,6 @@
 Dataset/
 IN_YOUR_FACE_DATASET/
-ANIMAL_DATASET
+ANIMAL_DATASET/
 Chris_model/Training/data
 converging_models/mask_unmask_dataset
 converging_models/masked_dataset
@@ -13,3 +13,5 @@ converging_models/MODELS/
 converging_models/converge_testing
 NEW_DATASET/
 Crop/Cropped_Dataset/
+Michael_model/training/
+Michael_model/validation/
